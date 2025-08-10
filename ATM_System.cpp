@@ -1,4 +1,4 @@
-#include <iostream.h>
+#include <iostream>
 #include <cctype> //Required for tolower()
 #include <string>
 #include <algorithm> //Required for transform
